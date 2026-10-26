@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Mobin Gholami, MD"
 title_separator          : "-"
 name                     : &name "Mobin Gholami"
@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # URL — paste your Google Scholar profile link here
+  googlescholar    : "https://scholar.google.com/citations?user=_RvTpr8AAAAJ&hl=en"# URL — paste your Google Scholar profile link here
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0000-5654-8196"
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "mobin-gholami"# Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
